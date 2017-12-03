@@ -21,6 +21,7 @@ for (k = 0; k <A.length; k++) {
 
 console.log(B);
 
+
 // Task 2
 var max = A[0];
 var min = A[0];
