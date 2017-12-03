@@ -79,5 +79,9 @@ for (var index = 0; index < A.length; index++) {
 }
 console.log(count);
 
+// Task 5
+var array = [];
+
+
 
 
